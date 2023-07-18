@@ -1,6 +1,0 @@
--Sort the data in the title and description columns in the movie table.  
-```sql 
-
-                  SELECT title, description FROM film;   
-
-```
